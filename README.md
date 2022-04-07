@@ -14,7 +14,7 @@ Salut, je suis Dilhan aka "ArK4nes", un passioné de CTF et accessoirement un in
  <img align="right" alt="GIF" src="https://github.com/DilhanWaveler/DilhanWaveler/blob/main/cyber1.gif?raw=true" width="300" height="300" />
 
   
-  💼 Un projet en cours? un CTF en vue et il vous manque quelqu'un? contactez-moi: [email](mailto:nidocale@protonmail.com). </br>
+  💼 Un CTF en vue et il vous manque quelqu'un? contactez-moi: [email](mailto:nidocale@protonmail.com). </br>
   💬 Besoin d'aide en cybersécurité? je serais ravi de vous aider (Si je peux).
 
 **languages & outils:**  
