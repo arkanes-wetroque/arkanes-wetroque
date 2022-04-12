@@ -32,7 +32,7 @@ Si tu veux payer ta bière, avec plaisir !
 </br>
 </br>
 
- <img align="Right" alt="GIF" src="https://github.com/DilhanWaveler/DilhanWaveler/blob/main/41175-iso-9001-certification-animation.gif" width="300" height="300" />
+ <img align="Right" alt="GIF" src="https://github.com/arkanes-wetroque/arkanes-wetroque/blob/main/41175-iso-9001-certification-animation.gif" width="300" height="300" />
  
 
  
