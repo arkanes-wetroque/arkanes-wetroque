@@ -28,7 +28,7 @@ Si tu veux payer ta bière, avec plaisir !
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </br>
 </br>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DilhanWaveler)](https://github.com/DilhanWaveler/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkanes-wetroque)](https://github.com/arkanes-wetroque/github-readme-stats)
 </br>
 </br>
 
