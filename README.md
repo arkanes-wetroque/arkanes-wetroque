@@ -11,7 +11,7 @@ Salut, je suis Dilhan aka "ArK4nes", un passioné de CTF et accessoirement un in
 
 
 
- <img align="right" alt="GIF" src="https://github.com/DilhanWaveler/DilhanWaveler/blob/main/cyber1.gif?raw=true" width="300" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/DilhanWaveler/arkanes-wetroque/blob/main/cyber1.gif?raw=true" width="300" height="300" />
 
   
   💼 Un CTF en vue et il vous manque quelqu'un? contactez-moi: [email](mailto:nidocale@protonmail.com). </br>
@@ -43,9 +43,9 @@ Si tu veux payer ta bière, avec plaisir !
 </br>
 
 
-<img align="left" alt="GIF" src="https://github.com/DilhanWaveler/DilhanWaveler/blob/main/eJPT.png?raw=true" width="120" height="95" />
-<img align="left" alt="GIF" src="https://github.com/DilhanWaveler/DilhanWaveler/blob/main/Foundations_of_MITRE_ATT_CK_Badge.png?raw=true" width="120" height="120" />
-<img align="left" alt="GIF" src="https://github.com/DilhanWaveler/DilhanWaveler/blob/main/allstar.png?raw=true" width="120" height="120" />
+<img align="left" alt="GIF" src="https://github.com/arkanes-wetroque/arkanes-wetroque/blob/main/eJPT.png?raw=true" width="120" height="95" />
+<img align="left" alt="GIF" src="https://github.com/arkanes-wetroque/arkanes-wetroque/blob/main/Foundations_of_MITRE_ATT_CK_Badge.png?raw=true" width="120" height="120" />
+<img align="left" alt="GIF" src="https://github.com/arkanes-wetroque/arkanes-wetroque/blob/main/allstar.png?raw=true" width="120" height="120" />
 
 
 
