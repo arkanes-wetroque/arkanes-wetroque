@@ -11,7 +11,7 @@ Salut, je suis Dilhan aka "ArK4nes", un passioné de CTF et accessoirement un in
 
 
 
- <img align="right" alt="GIF" src="https://github.com/DilhanWaveler/arkanes-wetroque/blob/main/cyber1.gif?raw=true" width="300" height="300" />
+ <img align="right" alt="GIF" src="https://github.com/arkanes-wetroque/arkanes-wetroque/blob/main/cyber1.gif?raw=true" width="300" height="300" />
 
   
   💼 Un CTF en vue et il vous manque quelqu'un? contactez-moi: [email](mailto:nidocale@protonmail.com). </br>
